@@ -1,0 +1,24 @@
+{
+  "private": false,
+  "name": "@vubular/form",
+  "version": "0.0.2",
+  "description": "vubular form resources",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vubular/form.git"
+  },
+  "author": "vubular",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vubular/form/issues"
+  },
+  "homepage": "https://github.com/vubular/form#readme"
+}
